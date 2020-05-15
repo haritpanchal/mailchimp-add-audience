@@ -18,10 +18,16 @@ This function will add subscriber/audience in mailchimp audience lists.
 # find about API key in below link:
 ### https://mailchimp.com/help/about-api-keys/
 
-# Technologies used:
+# Technologies used :
 
 1) Wordpress
 2) Ajax
 3) jquery
+
+# Folder structure :
+
+1) HTML code in template-demo.php
+2) function code in reg_functions.php
+3) Jquery code in reg_custom.js 
 
 ## /* Don't miss to add API key and Audience ID  */
